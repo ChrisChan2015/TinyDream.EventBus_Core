@@ -6,7 +6,7 @@ using EasyNetQ;
 using TinyDream.EventBus;
 namespace TinyDream.EventBus.RabbitMQ
 {
-    public class RabbitPublisher<T> : RabbitBase, IPublisher<T>, IDisposable
+    public class RabbitPublisher<T> : RabbitBase, IPublisher<T>
         where T : MessageBase
     {
 
@@ -37,12 +37,6 @@ namespace TinyDream.EventBus.RabbitMQ
                 return;
 
             await RabbitBus.SendAsync(Options.Queue, message);
-        }
-
-        public void Dispose()
-        {
-            RabbitBus.Dispose();
-            RabbitBus = null;
         }
     }
 }

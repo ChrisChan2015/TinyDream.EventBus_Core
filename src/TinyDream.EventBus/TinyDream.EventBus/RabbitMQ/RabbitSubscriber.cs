@@ -7,7 +7,7 @@ using EasyNetQ.Consumer;
 
 namespace TinyDream.EventBus.RabbitMQ
 {
-    public class RabbitSubscriber<T> : RabbitBase, ISubscriber<T>, IDisposable
+    public class RabbitSubscriber<T> : RabbitBase, ISubscriber<T>
         where T : MessageBase
     {
 
@@ -33,12 +33,6 @@ namespace TinyDream.EventBus.RabbitMQ
             args.Message = message;
 
             ConsumeEvent(this, args);
-        }
-
-        public void Dispose()
-        {
-            RabbitBus.Dispose();
-            RabbitBus = null;
         }
     }
 }

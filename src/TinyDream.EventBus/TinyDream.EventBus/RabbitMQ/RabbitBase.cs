@@ -36,5 +36,11 @@ namespace TinyDream.EventBus.RabbitMQ
 
             return connStr.ToString();
         }
+
+        public virtual void Dispose()
+        {
+            RabbitBus.Dispose();
+            RabbitBus = null;
+        }
     }
 }
