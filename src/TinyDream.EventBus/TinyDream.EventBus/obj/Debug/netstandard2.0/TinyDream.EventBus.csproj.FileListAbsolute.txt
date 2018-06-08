@@ -6,3 +6,4 @@ E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\
 E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.AssemblyInfo.cs
 E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.dll
 E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.pdb
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.csprojAssemblyReference.cache

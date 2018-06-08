@@ -35,18 +35,25 @@ namespace TinyDream.EventBus.UnitTest
         [Fact]
         public void Publish()
         {
-            RabbitOptions options = new RabbitOptions
-            {
-                Host = "localhost",
-                Queue = "Test"
-            };
-
-            IPublisher<TestMessage> pubs = new RabbitPublisher<TestMessage>(options);
+            IPublisher<TestMessage> pubs = new RabbitPublisher<TestMessage>(Options);
             pubs.Init();
 
             var message = GetTestMessage();
 
             pubs.Publish(message);
         }
+        
+        [Fact]
+        public void Subscriber()
+        {
+            ISubscriber<TestMessage> sub = new RabbitSubscriber<TestMessage>(Options);
+
+            sub.ConsumeEvent += (sender,args)=>
+            {
+                Assert.NotNull(args.Message);
+            };
+            sub.Init();
+        }
+
     }
 }
