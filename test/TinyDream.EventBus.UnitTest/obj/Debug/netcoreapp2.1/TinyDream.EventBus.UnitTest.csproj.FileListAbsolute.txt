@@ -1,0 +1,17 @@
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.deps.json
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.csprojAssemblyReference.cache
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.csproj.CoreCompileInputs.cache
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.AssemblyInfoInputs.cache
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.AssemblyInfo.cs
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.runtimeconfig.json
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.runtimeconfig.dev.json
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.pdb
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.pdb
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.dll
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\bin\Debug\netcoreapp2.1\TinyDream.EventBus.pdb
+E:\Projects\Chris\TinyDream\test\TinyDream.EventBus.UnitTest\obj\Debug\netcoreapp2.1\TinyDream.EventBus.UnitTest.csproj.CopyComplete

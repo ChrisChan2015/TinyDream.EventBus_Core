@@ -1,0 +1,8 @@
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\bin\Debug\netstandard2.0\TinyDream.EventBus.deps.json
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\bin\Debug\netstandard2.0\TinyDream.EventBus.dll
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\bin\Debug\netstandard2.0\TinyDream.EventBus.pdb
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.csproj.CoreCompileInputs.cache
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.AssemblyInfoInputs.cache
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.AssemblyInfo.cs
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.dll
+E:\Projects\Chris\TinyDream\src\TinyDream.EventBus\TinyDream.EventBus\obj\Debug\netstandard2.0\TinyDream.EventBus.pdb
