@@ -10,7 +10,7 @@ namespace TinyDream.EventBus.RabbitMQ
     {
         public virtual IBus RabbitBus { get; set; }
 
-        public virtual RabbitOptions Options
+        public virtual IOptions Options
         {
             get;
             set;

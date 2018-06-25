@@ -12,7 +12,7 @@ namespace TinyDream.EventBus.RabbitMQ
 
         public RabbitPublisher() { }
 
-        public RabbitPublisher(RabbitOptions options)
+        public RabbitPublisher(IOptions options)
         {
             this.Options = options;
         }
